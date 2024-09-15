@@ -1,0 +1,14 @@
+Combined Total MSE Results
+                   Model  Total MSE
+test_cubic_spline_result  12.182547
+        test_FkNN_result   1.495100
+ test_Fusion_MTSI_result   0.143017
+     test_knn_dtw_result   0.526915
+         test_knn_result   0.111586
+      test_linear_result   0.404419
+   test_MovingAvg_result   0.514522
+     test_nearest_result   0.473329
+
+Model with the Lowest Total MSE:
+Model        test_knn_result
+Total MSE           0.111586

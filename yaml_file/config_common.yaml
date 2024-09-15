@@ -1,0 +1,4 @@
+data_path: "/home/ih.jeong/new_folder/_dataset/data0723/electricity.csv"
+missing_data_path: "/home/ih.jeong/new_folder/_dataset/data0723/electricity_missing.csv"
+output_dir: "results"
+str_file: "electricity_"

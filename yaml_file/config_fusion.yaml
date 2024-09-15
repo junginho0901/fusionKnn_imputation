@@ -1,0 +1,7 @@
+num_closest_features: 5
+num_similar_segments: 5
+dtw_max_warping_segment: null
+msm_cost: 0.1
+segment_step_size: 1
+segment_random_ratio: 1
+spearman_exponent: 0.5
